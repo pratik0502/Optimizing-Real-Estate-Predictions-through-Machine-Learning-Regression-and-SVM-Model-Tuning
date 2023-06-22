@@ -1,4 +1,4 @@
-# Optimizing-Car-Price-Predictions-through-Machine-Learning-Regression-and-SVM-Model-Tuning
+# Optimizing-Realestate-Predictions-through-Machine-Learning-Regression-and-SVM-Model-Tuning
 
 Currency Conversion: Prices of cars are converted from Rupee to Dollars with the exchange rate of USD 1 = Rupee 75.
 
@@ -8,7 +8,7 @@ State Column Creation: The address column is used to create a new column for the
 
 Preprocessing & Data Cleaning: Statistical approaches are used for preprocessing and data cleaning to prepare the data for analysis.
 
-Exploratory Data Analysis: The data is analyzed using exploratory data analysis to gain insights into the car market.
+Exploratory Data Analysis: The data is analyzed using exploratory data analysis to gain insights into the real estate market.
 
 Statistical Analysis: Statistical analysis is performed to draw conclusions from the data.
 
